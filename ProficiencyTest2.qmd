@@ -25,7 +25,7 @@ Masking functions occurs when two different packages have the same name of a fun
 
 ```{r}
 iris$Sepal.Length[1]
-iris
+iris [1,1]
 ```
 
 It returns 5.1 which is the sepal length for the first flower in the list. 
