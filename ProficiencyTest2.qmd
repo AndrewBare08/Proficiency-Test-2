@@ -13,6 +13,24 @@ for (i in 1:3) {
 }
 ```
 
+
 ## Task-2
 
-count_above <- function
+```{r}
+count_above <- function( , ) {
+  count __ __
+
+for (i in 1:length(_)) {
+  if (_ > _) {
+    count <- count + 1
+   }
+  }
+
+  return(count)
+}
+```
+
+## Task-3
+
+Masking functions occurs when two different packages have the same name of a function. The new function with the same name "masks" the other one.
+
